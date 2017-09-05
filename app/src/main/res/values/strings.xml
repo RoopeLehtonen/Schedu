@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Schedu</string>
     <string name="action_settings">Settings</string>
+    <string name="save">Tallenna</string>
+    <string name="load">Lataa</string>
+    <string name="monday">Maanantai</string>
+    <string name="tuesday">Tiistai</string>
+    <string name="wednesday">Keskiviikko</string>
+    <string name="thursday">Torstai</string>
+    <string name="friday">Perjantai</string>
+    <string name="tableSavedMessage">Tallennettu</string>
+    <string name="modify">Muokkaa</string>
 </resources>

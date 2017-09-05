@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.roope.schedu.MainActivity"
-    tools:showIn="@layout/activity_main"
+    tools:showIn="@layout/activity_modify"
     android:focusable="true"
     android:focusableInTouchMode="true">
 
@@ -180,39 +180,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondaySeven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdaySeven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdaySeven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdaySeven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridaySeven" />
                         </TableRow>
 
@@ -220,39 +220,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayEight" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayEight" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayEight" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayEight" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayEight" />
                         </TableRow>
 
@@ -260,39 +260,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayNine" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayNine" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayNine" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayNine" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayNine" />
                         </TableRow>
 
@@ -300,39 +300,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayTen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayTen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayTen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayTen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayTen" />
                         </TableRow>
 
@@ -340,39 +340,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayEleven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
                                 android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayEleven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayEleven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayEleven" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayEleven" />
                         </TableRow>
 
@@ -380,39 +380,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayTwelve" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayTwelve" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayTwelve" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayTwelve" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayTwelve" />
                         </TableRow>
 
@@ -420,39 +420,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayThirteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayThirteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayThirteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayThirteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayThirteen" />
                         </TableRow>
 
@@ -460,39 +460,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayFourteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayFourteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayFourteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayFourteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayFourteen" />
                         </TableRow>
 
@@ -500,39 +500,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondayFifteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdayFifteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdayFifteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdayFifteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridayFifteen" />
                         </TableRow>
 
@@ -540,39 +540,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondaySixteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdaySixteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdaySixteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdaySixteen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridaySixteen" />
                         </TableRow>
 
@@ -580,39 +580,39 @@
                             android:layout_width="0dp"
                             android:layout_height="0dp">
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/mondaySeventeen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/tuesdaySeventeen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/wednesdaySeventeen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/thursdaySeventeen" />
 
-                            <TextView
+                            <EditText
                                 android:layout_width="200dp"
                                 android:layout_height="60dp"
                                 android:singleLine="true"
-                                
+                                android:inputType="textCapSentences"
                                 android:id="@+id/fridaySeventeen" />
                         </TableRow>
 
